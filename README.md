@@ -53,7 +53,7 @@ Contributions are welcome! If you'd like to contribute to RecruitStatsFXExcel, p
 
 ## License
 
-This project is a personal project. 
+This project is licensed under the gnu v.3 license - see the LICENSE file for details.
 
 ## Contact
 
