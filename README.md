@@ -39,10 +39,12 @@ To run the  locally, follow these steps:
   
 - **Open-Source and Extendable:** Contribute to and extend the project's functionalities to explore advanced image processing techniques.
 
+## Image Compression Output Example:
+![1715272833083](https://github.com/YouKnowJoey/py-svd-image-compression-analysis/assets/111665680/4c34c6e8-957f-4003-90ad-ed69c23913dc)
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to RecruitStatsFXExcel, please follow these steps:
+Contributions are welcome! If you'd like to contribute to py-svd-image-compression-analysis, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature-name`).
@@ -53,7 +55,7 @@ Contributions are welcome! If you'd like to contribute to RecruitStatsFXExcel, p
 
 ## License
 
-This project is licensed under the gnu v.3 license - see the LICENSE file for details.
+This project is licensed under the GNU GPL v.3 license - see the LICENSE file for details.
 
 ## Contact
 
